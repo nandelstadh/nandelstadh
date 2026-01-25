@@ -1,4 +1,4 @@
-Studying math and comp. sci. at Uppsala University. Writing thesis on flow models and diffusion. Studies have focused on probability, analysis, high-performance computing and numerics.
+Studying math and comp. sci. at [Uppsala University](https://www.uu.se/en/department/mathematics). Writing thesis on flow models and diffusion. Studies have focused on probability, analysis, high-performance computing and numerics.
 
 I have previously worked with data analysis at Solnet and Priceff. Check out my [Linkedin](www.linkedin.com/in/anton-von-nandelstadh-659a99183). Currently interested in machine learning engineering/research.
 

@@ -1,4 +1,8 @@
-## Hi there 👋
+I'm currently studying mathematics with a minor in computer science at Uppsala University, and graduating in June 2026. At the moment, I am writing my thesis on diffusion and flow models under the supervision of Benny Avelin. Other than that, my studies have focused on probability, analysis, high-performance computing and numerics.
+
+I have previously worked with data analysis at Solnet and Priceff. You can read more about that on my [Linkedin](www.linkedin.com/in/anton-von-nandelstadh-659a99183). I'm currently looking for roles in machine learning engineering/research.
+
+
 
 <!--
 **nandelstadh/nandelstadh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

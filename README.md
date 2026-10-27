@@ -1,6 +1,6 @@
 Studying math and comp. sci. at [Uppsala University](https://www.uu.se/en/department/mathematics). Writing thesis on flow models and diffusion. Studies have focused on probability, analysis, high-performance computing and numerics.
 
-I have previously worked with data analysis at [Solnet](https://www.solnet.group/) and [Priceff](https://www.priceff.com/). Check out my [Linkedin](www.linkedin.com/in/nandelstadh). Currently interested in machine learning engineering/research.
+I have previously worked with data analysis at [Solnet](https://www.solnet.group/) and [Priceff](https://www.priceff.com/). Check out my [Linkedin](https://www.linkedin.com/in/nandelstadh). Currently interested in machine learning engineering/research.
 
 
 
